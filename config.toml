@@ -19,6 +19,10 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+name = "Test Page"
+url = "https://k230qh6wvieypw.instant.forestry.io/blog/test-post/"
+weight = 6
+[[menu.main]]
 URL = "sample-page"
 name = "Sample Page"
 weight = 5
