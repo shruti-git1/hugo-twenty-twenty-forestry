@@ -6,7 +6,7 @@ description = ""
 draft = true
 found_interesting = true
 image = "/images/2020-square-2.png"
-tags = []
+tags = ["test"]
 title = "Test Post"
 
 +++
