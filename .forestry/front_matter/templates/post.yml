@@ -24,3 +24,8 @@ fields:
   name: description
   label: description
   description: Meta description
+- name: found_interesting
+  type: boolean
+  label: Found Interesting
+  description: Do you found this blog interesting
+  hidden: false
