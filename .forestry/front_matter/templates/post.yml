@@ -29,3 +29,5 @@ fields:
   label: Found Interesting
   description: Do you found this blog interesting
   hidden: false
+pages:
+- content/blog/test-post.md
